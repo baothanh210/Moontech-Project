@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "number": 1,
+    "image": "images/icons/HowWeWork.png",
+    "title": "Token Payment",
+    "content": "We are willing to exchange a percentage of your NFT share as a part of the payment, along side with the fees listed in the quotation."
+  },
+  {
+    "id": 2,
+    "number": 2,
+    "image": "images/icons/HowWeWork.png",
+    "title": "Token Payment",
+    "content": "We are willing to exchange a percentage of your NFT share as a part of the payment, along side with the fees listed in the quotation."
+  },
+  {
+    "id": 3,
+    "number": 3,
+    "image": "images/icons/HowWeWork.png",
+    "title": "Token Payment",
+    "content": "We are willing to exchange a percentage of your NFT share as a part of the payment, along side with the fees listed in the quotation."
+  }
+]

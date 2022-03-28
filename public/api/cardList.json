@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "image": "images/icons/Image-1.png",
+    "title": "Blockchain Consulting",
+    "content": "Consulting, solving difficult problems for fledgling projects in the blockchain market."
+  },
+  {
+    "id": 2,
+    "image": "images/icons/Image-2.png",
+    "title": "NFT Marketplace",
+    "content": "Design, build and operate NFT marketplace according to specific requirements of customers"
+  },
+  {
+    "id": 3,
+    "image": "images/icons/Image-3.png",
+    "title": "Game Landing- page",
+    "content": "Design and program a specific landing page for the project's blockchain game"
+  }
+]
